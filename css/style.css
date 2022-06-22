@@ -1,0 +1,33 @@
+img{
+    
+    width: 600px;
+    background-size: cover;
+}
+.main{
+    background-color: red;
+    height: 500px;
+    width: 500px;
+    
+    overflow: hidden;
+    
+}
+.box1{
+    background-color: yellow;
+    height: 100px;
+    width: 50%;
+    margin: 50px;
+    padding: 10px;
+    float: left;
+    
+}
+
+.box2{
+    background-color: green;
+    height: 100px;
+    width: 50%;
+    
+    margin: 50px;
+    padding: 10px;
+    float: left;
+    
+}
